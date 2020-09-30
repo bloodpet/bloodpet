@@ -1,0 +1,138 @@
+html, body, div, span {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+html {
+    background: #b1b19b;
+}
+
+
+
+body {
+    background: url(../img/lowerbox.jpg);
+    width: 960px;   
+    margin-left: auto;
+    margin-right: auto;
+    bottom center no-repeat;
+}
+
+img {
+    border: 0;
+}
+
+.a_menu {
+    margin: 0px -4px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+.a_menu img {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+#all {
+    background: url(../img/header.jpg) top center no-repeat;
+    height: 800px;
+    width: 960px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#menu {
+    position: relative;
+    top: 252px;
+    width: 914px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#menu a {
+    color: transparent;
+}
+
+#programmer_div {
+    position: absolute;
+    top: 27px;
+    left: 24px;
+}
+
+#sysad_div {
+    position: absolute;
+	top: 27px;
+    left: 212px;
+}
+
+#netphone_div {
+    position: absolute;
+	top: 27px;
+    left: 532px;
+}
+
+
+#nav {
+    position: relative;
+    top: 450px;
+    left: 20px;
+}
+#nav a {
+    margin: 0px -4px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    color: transparent;
+}
+
+#info {
+    position: relative;
+    top: 295px;
+    left: 660px;
+    overflow: auto;
+    width: 290px;
+    height: 350px;
+    font-family: verdana;
+    font-weight: bold;
+}
+
+#contact p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.tag {
+    font-size: 14px;
+    color: #363636;
+}
+
+.contactinfo {
+    font-size: 16px;
+    color: #027368;
+}
+
+
+#work {
+    font-size: 11px;
+    color: #363636;
+}
+#work ul {
+    margin-left: -14px;
+    padding-left: -16px;
+}
+#work li {
+    margin-left: -12px;
+    padding-left: -16px;
+}
+#work a {
+    color: #038c4c
+}
+
+
+#footer {
+    color: #a60321;
+    font-family: verdana;
+    font-size: 12px;
+    position: relative;
+    top: 340px;
+    text-align: center;
+}
+
+#footer hr {
+}
+
